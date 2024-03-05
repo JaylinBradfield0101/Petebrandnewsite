@@ -61,7 +61,7 @@ img {
   max-width: 200px;
   height: auto;
 }
-
+/* style for circle pic */
 .image-circle {
   border: 2px solid #003049;
   border-radius: 50%;
@@ -76,7 +76,7 @@ footer {
 hr {
   border: 1px solid black;
 }
-
+/* Flexbox section */
 .center{
  
   margin: 100px;
